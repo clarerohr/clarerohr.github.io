@@ -1,0 +1,18 @@
+body {
+	background-color: silver;
+	color: rgb(43, 127, 142);
+	font-family: Arial, sans-serif;
+}
+
+h1, #Contact {
+	font-family: Arial, serif;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 20px;
+}
+
+#Contact {
+	font-weight: bold;
+}
