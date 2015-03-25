@@ -1,0 +1,17 @@
+body {
+	background-color: silver;
+	color: rgb(43, 127, 142);
+	font-family: 'Georgia';
+	font-size: 14px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+h1, h3 {
+	font-family: 'Lato', sans-serif;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 20px;
+}
