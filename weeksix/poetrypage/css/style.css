@@ -1,0 +1,103 @@
+body {
+	font-size: 18px;
+	font-family: 'Georgia';
+}
+
+header {
+	background-color: #302d34;
+}
+
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 2.8em;
+	font-family: 'Raleway';
+	padding-top: 25px;
+}
+
+nav {
+	font-size: 1.5em;
+ 	float: middle;
+} 
+
+nav a {	
+	text-decoration: none;
+	color: white;
+	margin: 1.8em 0;
+	display: block;
+	float: left;
+	text-transform: uppercase;
+	font-family: 'Raleway';
+	text-align: center;
+	width: 270px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-style: italic;
+}
+
+section {
+  overflow: auto;
+  margin: 0 auto;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+li {
+  	border-bottom-color: #fff;
+  	border-bottom-style: solid;
+  	border-bottom-width: 2px;
+  	text-align: center;
+  	line-height: 6em;
+}
+
+.wrapper {
+	width: 1080px;
+	margin: 0 auto;
+}
+
+#hero {
+  text-align: center;
+}
+
+#hero img {
+	width: 100%;
+}
+
+.column {
+	border-width: 5px;
+	float: left;
+	font-size: 1.2em;
+	width: 280px;
+	margin: 20px;
+	padding: 20px;
+	/*margin: 3%;*/
+	/*width: 25%;*/
+	/*padding: 1%;*/
+}
+
+#column1, #column2, #column3 {
+	background-color: #939DAC;
+}
+
+#moon {
+	line-height: 2;
+	padding: 5%;
+	background-color: #939DAC;
+}
+
+#moon h2 {
+	color: #fff44f;
+}
+
+#social {
+	width: 200px;
+	margin: 0;
+	float: right;
+}
