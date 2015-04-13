@@ -70,6 +70,10 @@ li {
 	width: 100%;
 }
 
+li a:hover {
+	color: #fff44f;
+}
+
 .column {
 	border-width: 5px;
 	float: left;
@@ -85,6 +89,7 @@ li {
 #column1, #column2, #column3 {
 	background-color: #939DAC;
 }
+
 
 #moon {
 	line-height: 2;
